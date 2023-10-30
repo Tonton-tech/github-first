@@ -1,1 +1,1 @@
-document.querySelector('h3').style.color = "white";
+document.querySelector('.box').style.borderRadius = "200px";
